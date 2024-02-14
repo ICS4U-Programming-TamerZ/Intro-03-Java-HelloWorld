@@ -11,6 +11,7 @@ public class HelloWorld {
   // Main method entry point
   public static void main(String[] arg) {
     // Output to Console
-    System.out.println("Hello, World");
+    System.out.println("Hello, Van");
+    System.out.println("How are you doing?");
   }
 }
